@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **AmerDawood/AmerDawood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmerDawood&theme=dark&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmerDawood&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
