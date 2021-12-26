@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ### Amer Dawood
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 
-
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtamer0&layout=compact&hide_border=true&theme=onedark">
 
