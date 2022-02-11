@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hi, I'm Ame Dawood 👋
 
-### Amer Dawood
-### Computer Science student
 
 
 
