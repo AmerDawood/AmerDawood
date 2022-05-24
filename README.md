@@ -1,4 +1,4 @@
-# Hi, I'm Ame Dawood 👋
+# Hi, I'm Amer Dawood 👋
 
 ## I'm a Flutter Developer
 
