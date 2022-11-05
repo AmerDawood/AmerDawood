@@ -1,9 +1,6 @@
 # Hi there 👋, I am Amer Dawood
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amer Dawood-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/krushnat-khavale/](https://www.linkedin.com/in/amer-dawood/))](https://www.linkedin.com/in/amer-dawood/)
 
-
-[![Website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=Website&logoColor=white&link=[https://dev-amer.me](https://www.linkedin.com/in/amer-dawood/))](https://dev-amer.me)
 
 
 **Languages and Tools:**  
