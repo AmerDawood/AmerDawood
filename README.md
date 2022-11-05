@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/krushnat-khavale/](https://www.linkedin.com/in/amer-dawood/))](https://www.linkedin.com/in/amer-dawood/)
 
 
-- 🔭 **I’m currently working on server side Java technologies.**
-- 🌱 **I’m currently learning natural language processing.**
+[![Website](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://dev-amer.me](https://www.linkedin.com/in/amer-dawood/))](https://dev-amer.me)
+
 
 **Languages and Tools:**  
 <div>
