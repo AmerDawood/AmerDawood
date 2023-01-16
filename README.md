@@ -1,4 +1,4 @@
-# Hi there 👋, I am Amer Dawood
+# Hi there 👋, I'm Amer Dawood
 
 
 
