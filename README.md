@@ -21,7 +21,7 @@ Feel free to check out my repositories and contribute to the open-source project
 ## Contact Me
 
 - Email: [amermadawood@gmail.com](mailto:your-email@example.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- LinkedIn: [https://www.linkedin.com/in/amer-dawood/](https://www.linkedin.com/in/your-linkedin-profile)
 
 Happy coding! 🚀
 
