@@ -1,6 +1,6 @@
 # Amer Dawood - Software Developer
 
-Hi there! I'm Amer Dawood, a passionate software developer. I specialize in back-end development with Laravel, front-end development with Flutter, and integrating real-time features using Firebase and Pusher.
+Hi there! I'm Amer Dawood, a passionate software developer. I specialize in back-end development with Laravel, mobile development with Flutter, and integrating real-time features using Firebase and Pusher.
 
 ## Technologies & Tools
 
