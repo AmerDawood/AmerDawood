@@ -1,3 +1,6 @@
+<a target="_blank" href="#"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
+
+
 # Amer Dawood - Software Developer 👨‍💻
 
 Hi there! 👋 I'm **Amer Dawood**, a passionate software developer.  
